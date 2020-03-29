@@ -22,10 +22,7 @@
 #include "Kaleidoscope-EEPROM-Keymap.h"
 #include "Kaleidoscope-FocusSerial.h"
 #include "Kaleidoscope-Macros.h"
-#include "Kaleidoscope-MouseKeys.h"
-#include "Kaleidoscope-OneShot.h"
 #include "Kaleidoscope-Qukeys.h"
-#include "Kaleidoscope-SpaceCadet.h"
 
 #include "./keymaps/dvorak-default.h"
 
